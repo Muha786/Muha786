@@ -3,10 +3,11 @@ Hi, I’m Muhammad Suhail S 👋
 About Me
 
 - Education: B.Tech in Computer Science and Engineering
-- Current Role: Python Full Stack Developer
+- Role: Python Full Stack Developer && Data Analyst
 - Skills:
   - Programming Languages: Python, JavaScript
   - Web Technologies: HTML, CSS, JavaScript, Django, Flask
+  - Libraries : Numpy, Pandas, Matplotlib, Seaborn
   - Databases: MySQL, oracle
   - Tools & Platforms: Git
 - Interests: Developing scalable web applications, solving complex problems, and learning new technologies.
@@ -30,7 +31,7 @@ Technologies: Python, Django, Bootstrap, JavaScript, MySQL
 Experience
 
 Software Developer Intern
-Q-Spiders,Kochi - [July, 2024] to [Ongoing]
+Q-Spiders,Kochi - [July, 2024] to [Januvary, 2025]
 - Worked on developing and maintaining web applications.
 - Collaborated with cross-functional teams to deliver high-quality software solutions.
 - Implemented responsive design and optimized performance.
